@@ -113,3 +113,8 @@ section.SectionAbout {
 #emaillink {
   margin-right: 0;
 }
+
+.LeftBanner {
+  width: 120px;
+  height: 170px;
+}
